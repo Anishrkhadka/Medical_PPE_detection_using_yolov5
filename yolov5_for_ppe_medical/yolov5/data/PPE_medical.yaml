@@ -1,0 +1,11 @@
+train: /media/Evo_plus_1TB/PED_for_FRs/PPE_Medical/YoloFormat/images/train/ 
+val:  /media/Evo_plus_1TB/PED_for_FRs/PPE_Medical/YoloFormat/images/val/
+test: /media/Evo_plus_1TB/PED_for_FRs/PPE_Medical/YoloFormat/images/test/
+
+# number of classes
+nc: 5
+
+# class names
+names: ["Coverall","Face_shield", "Gloves","Goggles","Mask"]
+
+
